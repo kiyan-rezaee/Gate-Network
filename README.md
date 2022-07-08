@@ -1,1 +1,1 @@
-# Gate-Networks
+# Single-Layer-Perceptron
